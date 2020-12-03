@@ -9,9 +9,7 @@ setup(
     author_email='acharysusant@gmail.com',
     license='MIT',
     packages=['vision-utils'],
-    install_requires=['cv2>=3.4',
-                      'numpy',
-                      ],
+    install_requires=['numpy'],
 
     classifiers=[
         'Development Status :: 1 - Planning',
